@@ -1,0 +1,28 @@
+name: ivogeorg
+favicon: null
+layout_spectrum: 0.14126451360061765
+typography_spectrum: 0.8381235511042178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.33357191062532365
+  lightness: 0.26561438222415745
+  saturation: 0.03541252249851823
+  rhythmicContrast: 0.3421215726993978
+purpose: []
